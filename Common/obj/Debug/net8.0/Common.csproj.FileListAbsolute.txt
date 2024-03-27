@@ -1,0 +1,14 @@
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\bin\Debug\net8.0\Common.exe
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\bin\Debug\net8.0\Common.dll
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.dll
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+C:\Users\AKSHAY KUMAR\source\repos\WebApplication2\Common\obj\Debug\net8.0\ref\Common.dll
